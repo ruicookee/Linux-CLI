@@ -18,4 +18,4 @@ Edit: I have found out that it is frowned upon by the community to include the p
 | [Level 6-->7](OverTheWire/Bandit/Level-6-->7.md) | Find with Conditions with Even More Conditions |
 
 ## Figure Out My Cipher
-Check out [cipher.py](cipher.py)! You only need to figure out 2 parameters to crack it. And then tell me how you did it.
+Check out [cipher.py](cipher.py)! You only need to figure out my algo for 2 parameters to crack it. And then tell me how you did it.
